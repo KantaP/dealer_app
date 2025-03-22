@@ -1,0 +1,359 @@
+[
+  {
+    "id": 1,
+    "group_id": 1,
+    "occupation_name": "ครู / อาจารย์",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 2,
+    "group_id": 1,
+    "occupation_name": "ตำรวจ / ทหาร",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 3,
+    "group_id": 1,
+    "occupation_name": "ผู้พิพากษา / อัยการ",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 4,
+    "group_id": 1,
+    "occupation_name": "ทนายความ",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 5,
+    "group_id": 1,
+    "occupation_name": "แพทย์ / ทันตแพทย์",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 6,
+    "group_id": 1,
+    "occupation_name": "สัตวแพทย์",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 7,
+    "group_id": 1,
+    "occupation_name": "เภสัชกร",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 8,
+    "group_id": 1,
+    "occupation_name": "พยาบาล",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 9,
+    "group_id": 1,
+    "occupation_name": "สถานปนิก",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 10,
+    "group_id": 1,
+    "occupation_name": "วิศวกร",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 11,
+    "group_id": 1,
+    "occupation_name": "นักบิน",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 12,
+    "group_id": 1,
+    "occupation_name": "บัญชี/การเงิน",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 13,
+    "group_id": 1,
+    "occupation_name": "อื่นๆ",
+    "score": 1,
+    "need_information": true
+  },
+  {
+    "id": 14,
+    "group_id": 2,
+    "occupation_name": "ครู / อาจารย์",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 15,
+    "group_id": 2,
+    "occupation_name": "ทนายความ",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 16,
+    "group_id": 2,
+    "occupation_name": "แพทย์ / ทันตแพทย์",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 17,
+    "group_id": 2,
+    "occupation_name": "สัตวแพทย์",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 18,
+    "group_id": 2,
+    "occupation_name": "เภสัชกร",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 19,
+    "group_id": 2,
+    "occupation_name": "พยาบาล",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 20,
+    "group_id": 2,
+    "occupation_name": "สถานปนิก",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 21,
+    "group_id": 2,
+    "occupation_name": "วิศวกร",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 22,
+    "group_id": 2,
+    "occupation_name": "นักบิน",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 23,
+    "group_id": 2,
+    "occupation_name": "พนักงานต้อนรับบนเครื่องบิน",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 24,
+    "group_id": 2,
+    "occupation_name": "พนักงานขาย",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 25,
+    "group_id": 2,
+    "occupation_name": "บัญชี/การเงิน",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 26,
+    "group_id": 2,
+    "occupation_name": "อื่นๆ",
+    "score": 1,
+    "need_information": true
+  },
+  {
+    "id": 27,
+    "group_id": 3,
+    "occupation_name": "ครู / อาจารย์",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 28,
+    "group_id": 3,
+    "occupation_name": "ทนายความ",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 29,
+    "group_id": 3,
+    "occupation_name": "แพทย์ / ทันตแพทย์",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 30,
+    "group_id": 3,
+    "occupation_name": "สัตวแพทย์",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 31,
+    "group_id": 3,
+    "occupation_name": "เภสัชกร",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 32,
+    "group_id": 3,
+    "occupation_name": "พยาบาล",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 33,
+    "group_id": 3,
+    "occupation_name": "สถานปนิก",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 34,
+    "group_id": 3,
+    "occupation_name": "วิศวกร",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 35,
+    "group_id": 3,
+    "occupation_name": "นักบิน",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 36,
+    "group_id": 3,
+    "occupation_name": "พนักงานต้อนรับบนเครื่องบิน",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 37,
+    "group_id": 3,
+    "occupation_name": "พนักงานขาย",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 38,
+    "group_id": 3,
+    "occupation_name": "บัญชี/การเงิน",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 39,
+    "group_id": 3,
+    "occupation_name": "ธุรกิจออนไลน์",
+    "score": 1,
+    "need_information": false
+  },
+  {
+    "id": 40,
+    "group_id": 3,
+    "occupation_name": "อื่นๆ",
+    "score": 1,
+    "need_information": true
+  },
+  {
+    "id": 41,
+    "group_id": 4,
+    "occupation_name": "บริการโอน / รับโอนเงิน",
+    "score": 39,
+    "need_information": false
+  },
+  {
+    "id": 42,
+    "group_id": 4,
+    "occupation_name": "ธุรกิจรับแลกเปลี่ยนเงินตราต่างประเทศ",
+    "score": 39,
+    "need_information": false
+  },
+  {
+    "id": 43,
+    "group_id": 4,
+    "occupation_name": "ทัวร์ / นำเที่ยว",
+    "score": 39,
+    "need_information": false
+  },
+  {
+    "id": 44,
+    "group_id": 4,
+    "occupation_name": "จัดหางานให้แรงงานต่างชาติ / ส่งคนไปทำงานต่างประเทศ",
+    "score": 39,
+    "need_information": false
+  },
+  {
+    "id": 45,
+    "group_id": 4,
+    "occupation_name": "ค้าอัญมณี เพชรพลอย ทองคำ",
+    "score": 39,
+    "need_information": false
+  },
+  {
+    "id": 46,
+    "group_id": 4,
+    "occupation_name": "ค้าวัตถุโบราณ",
+    "score": 39,
+    "need_information": false
+  },
+  {
+    "id": 47,
+    "group_id": 4,
+    "occupation_name": "สถานบันเทิงเริงรมย์",
+    "score": 39,
+    "need_information": false
+  },
+  {
+    "id": 48,
+    "group_id": 4,
+    "occupation_name": "ธุรกิจคาสิโน และการพนัน",
+    "score": 39,
+    "need_information": false
+  },
+  {
+    "id": 49,
+    "group_id": 4,
+    "occupation_name": "ค้าอาวุธยุทธภัณฑ์",
+    "score": 39,
+    "need_information": false
+  },
+  {
+    "id": 50,
+    "group_id": 4,
+    "occupation_name": "ธุรกิจสินทรัพย์ดิจิทัล",
+    "score": 39,
+    "need_information": false
+  },
+  {
+    "id": 51,
+    "group_id": 4,
+    "occupation_name": "อื่นๆ",
+    "score": 1,
+    "need_information": true
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "th": "เกษตรกร/ชาวสวน/ชาวประมง/ผู้ใช้แรงงาน",
+    "en": "Agriculturist/gardener/fisher/labor",
+    "score": 1
+  },
+  {
+    "id": 2,
+    "th": "เกษียณ/พ่อบ้าน/แม่บ้าน",
+    "en": "retired/housewife",
+    "score": 1
+  },
+  {
+    "id": 3,
+    "th": "ข้าราชการ/พนักงานรัฐวิสาหกิจ",
+    "en": "Governer",
+    "score": 1
+  },
+  {
+    "id": 4,
+    "th": "ครู-อาจารย์/นักวิชาการ/นักวิจัย",
+    "en": "Teacher-Lecturer",
+    "score": 1
+  },
+  {
+    "id": 5,
+    "th": "เจ้าของกิจการ/ธุรกิจส่วนตัว",
+    "en": "Business Owner",
+    "score": 1
+  },
+  {
+    "id": 6,
+    "th": "เจ้าของธุรกิจสินทรัพย์ดิจิทัล",
+    "en": "Business Owner - Digital Asset",
+    "score": 7
+  },
+  {
+    "id": 7,
+    "th": "ตำรวจ/ทหาร",
+    "en": "Police/Military",
+    "score": 1
+  },
+  {
+    "id": 8,
+    "th": "ธุรกิจการค้าของเก่า และการขายทอดตลาด",
+    "en": "Antiques and Auctions Business",
+    "score": 39
+  },
+  {
+    "id": 9,
+    "th": "ธุรกิจการค้าอาวุธยุทธภัณฑ์",
+    "en": "Armament trading business",
+    "score": 39
+  },
+  {
+    "id": 10,
+    "th": "ธุรกิจคาสิโน หรือบ่อนการพนัน",
+    "en": "Casino",
+    "score": 39
+  },
+  {
+    "id": 11,
+    "th": "ธุรกิจเครื่องประดับ เพชรพลอย อัญมณี หรือทองคำ",
+    "en": "Jewelry, Gemstones, Gems or Gold Business",
+    "score": 39
+  },
+  {
+    "id": 12,
+    "th": "ธุรกิจนำเที่ยว บริษัททัวร์",
+    "en": "Travel business / Tour",
+    "score": 39
+  },
+  {
+    "id": 13,
+    "th": "ธุรกิจสถานบันเทิง อาบอบนวด สถานบริการ",
+    "en": "Entertainment Business",
+    "score": 39
+  },
+  {
+    "id": 14,
+    "th": "นักการเมือง/สมาชิกสภาผู้แทนราษฎร/สมาชิกวุฒิสภา",
+    "en": "Politician/Senator/Member of Parliament",
+    "score": 39
+  },
+  {
+    "id": 15,
+    "th": "นักดนตรี/นักร้อง/นักแสดง/ผู้จัดการศิลปิน/ศิลปิน",
+    "en": "Musician/Singer/Actor/Artist/Artist Manager",
+    "score": 1
+  },
+  {
+    "id": 16,
+    "th": "นักบัญชี-การเงิน",
+    "en": "Accountant/Financier",
+    "score": 7
+  },
+  {
+    "id": 17,
+    "th": "นักบิน/แอร์โฮสเตส/สจ๊วต",
+    "en": "Pilot/Air hostess/Steward",
+    "score": 1
+  },
+  {
+    "id": 18,
+    "th": "นักเรียน/นักศึกษา",
+    "en": "Student",
+    "score": 1
+  },
+  {
+    "id": 19,
+    "th": "นายหน้าจัดหางาน",
+    "en": "Recruitment Agent",
+    "score": 39
+  },
+  {
+    "id": 20,
+    "th": "นายหน้าซื้อขายอสังหาริมทรัพย์",
+    "en": "Real Estate Broker",
+    "score": 7
+  },
+  {
+    "id": 21,
+    "th": "ผู้พิพากษา/อัยการ/ทนายความ/นักกฎหมาย/ที่ปรึกษากฏหมาย",
+    "en": "Judge/Prosecuting attorney/Lawyer/",
+    "score": 7
+  },
+  {
+    "id": 22,
+    "th": "พนักงานบริษัท/พนักงานชั่วคราวบริษัท",
+    "en": "Employee",
+    "score": 1
+  },
+  {
+    "id": 23,
+    "th": "พยาบาล/เภสัชกร/เจ้าหน้าที่ทางการแพทย์",
+    "en": "Nurse/Pharmacist/Medical Staff",
+    "score": 1
+  },
+  {
+    "id": 24,
+    "th": "พระภิกษุ/นักบวช",
+    "en": "Monk",
+    "score": 7
+  },
+  {
+    "id": 25,
+    "th": "แพทย์/ทันตแพทย์",
+    "en": "Doctor/Dentist",
+    "score": 1
+  },
+  {
+    "id": 26,
+    "th": "รับแลกเปลี่ยนเงินตรา/ตัวแทนโอนเงินระหว่างประเทศ",
+    "en": "Money Exchange/Money Transfer Agent",
+    "score": 39
+  },
+  {
+    "id": 27,
+    "th": "ว่างงาน",
+    "en": "Unemployed",
+    "score": 1
+  },
+  {
+    "id": 28,
+    "th": "อาชีพอิสระ",
+    "en": "Freelance",
+    "score": 1
+  }
+]

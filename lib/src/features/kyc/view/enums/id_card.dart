@@ -1,0 +1,1 @@
+enum IdCardType { front, back }

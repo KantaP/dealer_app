@@ -1,0 +1,14 @@
+targets:
+  $default:
+    builders:
+      injectable_generator|injectable_builder:
+        enabled: true
+        generate_for:
+          include:
+            - lib/src/di/**
+            - lib/src/data/**
+            - lib/src/features/**
+            - lib/src/widgets/**
+      json_serializable:
+        options:
+          explicit_to_json: true

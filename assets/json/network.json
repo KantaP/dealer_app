@@ -1,0 +1,12 @@
+[
+    {
+        "network_name" : "Ethereum (ERC20)" ,
+        "description" : "Fee 5.0000 GASTH (~5.15 THB)\nArrival time ~ 5 mins",
+        "network_code" : "ERC20"
+    },
+    {
+        "network_name" : "BNB Smart Chain (BEP-20)" ,
+        "description" : "Fee 5.0000 GASTH (~5.15 THB)\nArrival time ~ 5 mins",
+        "network_code" : "BEP-20"
+    }
+]

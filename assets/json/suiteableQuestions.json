@@ -1,0 +1,2139 @@
+[
+    {
+      "id" : 1,
+      "multiple" : false,
+      "question" : {
+        "th" : "ลูกค้าอายุเท่าใด" ,
+        "en" : "How old are you?"
+      } ,
+      "answers" : [
+        {
+          "id" : 1,
+          "answer" : {
+            "th" : "ตั้งแต่ 20 ปี แต่ไม่เกิน 30 ปี" ,
+            "en" : "< 20 years" 
+          },
+          "point" : 5
+        },
+        {
+          "id" : 2,
+          "answer" : {
+            "th" : "ตั้งแต่ 30 ปี แต่ไม่เกิน 40 ปี" ,
+            "en" : "20 - 30 years"
+          },
+          "point" : 4
+        },
+        {
+          "id" : 3,
+          "answer" : {
+            "th" : "ตั้งแต่ 40 ปี แต่ไม่เกิน 50 ปี" ,
+            "en" : "31 - 45 years"
+          },
+          "point" : 3
+        },
+        {
+          "id" : 4,
+          "answer" : {
+            "th" : "ตั้งแต่ 50 ปี แต่ไม่เกิน 60 ปี" ,
+            "en" : "45 - 60 years"
+          },
+          "point" : 2
+        },
+        {
+          "id" : 5,
+          "answer" : {
+            "th" : "60 ปีขึ้นไป" ,
+            "en" : "> 60 years"
+          },
+          "point" : 1
+        }
+      ],
+      "select_item" : false,
+      "select_list" : [] ,
+      "is_iwt" : true
+    },
+    {
+      "id" : 2,
+      "multiple" : false,
+      "question" : {
+        "th" : "การศึกษา" ,
+        "en" : "Education Level"
+      },
+      "answers" : [
+        {
+          "id" : 1,
+          "answer" : {
+            "th" : "ต่ำกว่าปริญญาตรี" ,
+            "en" : "Under Bachelor's degree"
+          },
+          "point" : 1
+        },
+        {
+          "id" : 2,
+          "answer" : {
+            "th" : "ปริญญาตรี" ,
+            "en" : "Bachelor's degree"
+          },
+          "point" : 3
+        },
+        {
+          "id" : 3,
+          "answer" : {
+            "th" : "ปริญญาโท" ,
+            "en" : "Above Bachelor's degree"
+          },
+          "point" : 5
+        },
+        {
+          "id" : 4,
+          "answer" : {
+            "th" : "ปริญญาเอก" ,
+            "en" : "Above Bachelor's degree"
+          },
+          "point" :5
+        }
+      ],
+      "select_item" : false,
+      "select_list" : [] ,
+      "is_iwt" : true
+    },
+    {
+      "id" : 3, 
+      "multiple" : true,
+      "question" : {
+        "th" : "วัตถุประสงค์ของการสมัครใช้บริการ" ,
+        "en" : "Purpose(s) of subscription"
+      },
+      "answers" : [
+        {
+          "id" : 1,
+          "answer" : {
+            "th" : "เพื่อการออม" ,
+            "en" : "Saving"
+          },
+          "point" : 1
+        },
+        {
+          "id" : 2,
+          "answer" : {
+            "th" : "เพื่อการลงทุน" ,
+            "en" : "Investment"
+          },
+          "point" : 1
+        },
+        {
+          "id" : 3,
+          "answer" : {
+            "th" : "เพื่อซื้อโทเคนระดมทุน (ICO)" ,
+            "en" : "ICO"
+          },
+          "point" : 1
+        },
+        {
+          "id" : 4,
+          "answer" : {
+            "th" : "เพื่อประกอบธุรกิจสินทรัพย์ดิจิทัล" ,
+            "en" : "International Transfer"
+          },
+          "point" : 39
+        },
+        {
+          "id" : 5,
+          "answer" : {
+            "th" : "เพื่อโอนสินทรัพย์ดิจิทัลระหว่างประเทศ" ,
+            "en" : "International Transfer"
+          },
+          "point" : 39
+        },
+        {
+          "id" : 6,
+          "answer" : {
+            "th" : "วัตถุประสงค์ซึ่งมิได้จัดอยู่ในประเภทอื่นเป็นการเฉพาะ" ,
+            "en" : "International Transfer"
+          },
+          "point" : 7
+        }
+      ],
+      "select_item" : false,
+      "select_list" : [] ,
+      "is_iwt" : false
+    },
+    {
+      "id" : 4,
+      "multiple" : false,
+      "question" : {
+        "th" : "ระยะเวลาการลงทุน (ระยะเวลาที่คาดว่าจะลงทุนในสินทรัพย์ดิจิทัลแต่ละครั้ง)",
+        "en" : ""
+      },
+      "answers" : [
+        {
+          "id" : 1,
+          "answer" : {
+            "th" : "ระยะสั้น ไม่เกิน 1 เดือน" ,
+            "en" : "Less than 1 months"
+          },
+          "point" : 5
+        },
+        {
+          "id" : 2,
+          "answer" : {
+            "th" : "เกินกว่า 1 เดือนแต่ไม่เกิน 6 เดือน" ,
+            "en" : "More than 1 months but less than 6 months"
+          },
+          "point" : 4
+        },
+        {
+          "id" : 3,
+          "answer" : {
+            "th" : "เกินกว่า 6 เดือนแต่ไม่เกิน 1 ปี" ,
+            "en" : "More than 6 months but less than 1 year"
+          },
+          "point" : 3
+        },
+        {
+          "id" : 4,
+          "answer" : {
+            "th" : "เกินกว่า 1 ปี แต่ไม่เกิน 3 ปี" ,
+            "en" : "More than 1 year and less than 3 years"
+          },
+          "point" : 2
+        },
+        {
+          "id" : 5,
+          "answer" : {
+            "th" : "3 ปีขึ้นไป" ,
+            "en" : "More than 3 years"
+          },
+          "point" : 1
+        }
+      ],
+      "select_item" : false,
+      "select_list" : [] ,
+      "is_iwt" : true
+    },
+    {
+      "id" : 5,
+      "multiple" : true,
+      "question" : {
+        "th" : "แหล่งที่มาของเงินได้",
+        "en" : ""
+      },
+      "answers" : [
+        {
+          "id" : 1,
+          "answer" : {
+            "th" : "เงินออม" ,
+            "en" : ""
+          },
+          "point" : 0
+        },
+        {
+          "id" : 2,
+          "answer" : {
+            "th" : "เงินเดือน/ค่าจ้าง" ,
+            "en" : ""
+          },
+          "point" : 0
+        },
+        {
+          "id" : 3,
+          "answer" : {
+            "th" : "มรดก/ของขวัญ" ,
+            "en" : ""
+          },
+          "point" : 0
+        },
+        {
+          "id" : 4,
+          "answer" : {
+            "th" : "ธุรกิจส่วนตัว" ,
+            "en" : ""
+          },
+          "point" : 0
+        },
+        {
+          "id" : 5,
+          "answer" : {
+            "th" : "ตราสาร/กองทุน" ,
+            "en" : ""
+          },
+          "point" : 0
+        },
+        {
+          "id" : 6,
+          "answer" : {
+            "th" : "ผู้ปกครอง" ,
+            "en" : ""
+          },
+          "point" : 0
+        },
+        {
+          "id" : 7,
+          "answer" : {
+            "th" : "อื่นๆ" ,
+            "en" : ""
+          },
+          "point" : 0
+        }
+      ],
+      "select_item" : false,
+      "select_list" : [] ,
+      "is_iwt" : false
+    },
+    {
+      "id" : 6,
+      "multiple" : false,
+      "question" : {
+        "th" : "แหล่งที่มาของเงินได้สูงสุดเกิดขึ้นที่ประเทศใด",
+        "en" : ""
+      },
+      "answers" : [],
+      "select_item" : true,
+      "select_list" : 
+      [
+        {
+          "id": "AF",
+          "en": "Afghanistan",
+          "th": "อัฟกานิสถาน",
+          "point": 7
+        },
+        {
+          "id": "AX",
+          "en": "Åland Islands",
+          "th": "หมู่เกาะโอลันด์",
+          "point": 7
+        },
+        {
+          "id": "AL",
+          "en": "Albania",
+          "th": "แอลเบเนีย",
+          "point": 30
+        },
+        {
+          "id": "DZ",
+          "en": "Algeria",
+          "th": "แอลจีเรีย",
+          "point": 7
+        },
+        {
+          "id": "AS",
+          "en": "American Samoa",
+          "th": "อเมริกันซามัว",
+          "point": 7
+        },
+        {
+          "id": "AD",
+          "en": "Andorra",
+          "th": "อันดอร์รา",
+          "point": 7
+        },
+        {
+          "id": "AO",
+          "en": "Angola",
+          "th": "แองโกลา",
+          "point": 7
+        },
+        {
+          "id": "AI",
+          "en": "Anguilla",
+          "th": "แองกวิลลา",
+          "point": 7
+        },
+        {
+          "id": "AQ",
+          "en": "Antarctica",
+          "th": "แอนตาร์กติกา",
+          "point": 7
+        },
+        {
+          "id": "AG",
+          "en": "Antigua & Barbuda",
+          "th": "แอนติกาและบาร์บูดา",
+          "point": 7
+        },
+        {
+          "id": "AR",
+          "en": "Argentina",
+          "th": "อาร์เจนตินา",
+          "point": 7
+        },
+        {
+          "id": "AM",
+          "en": "Armenia",
+          "th": "อาร์เมเนีย",
+          "point": 7
+        },
+        {
+          "id": "AW",
+          "en": "Aruba",
+          "th": "อารูบา",
+          "point": 7
+        },
+        {
+          "id": "AU",
+          "en": "Australia",
+          "th": "ออสเตรเลีย",
+          "point": 7
+        },
+        {
+          "id": "AT",
+          "en": "Austria",
+          "th": "ออสเตรีย",
+          "point": 7
+        },
+        {
+          "id": "AZ",
+          "en": "Azerbaijan",
+          "th": "อาเซอร์ไบจาน",
+          "point": 7
+        },
+        {
+          "id": "BS",
+          "en": "Bahamas",
+          "th": "บาฮามาส",
+          "point": 7
+        },
+        {
+          "id": "BH",
+          "en": "Bahrain",
+          "th": "บาห์เรน",
+          "point": 7
+        },
+        {
+          "id": "BD",
+          "en": "Bangladesh",
+          "th": "บังกลาเทศ",
+          "point": 7
+        },
+        {
+          "id": "BB",
+          "en": "Barbados",
+          "th": "บาร์เบโดส",
+          "point": 30
+        },
+        {
+          "id": "BY",
+          "en": "Belarus",
+          "th": "เบลารุส",
+          "point": 7
+        },
+        {
+          "id": "BE",
+          "en": "Belgium",
+          "th": "เบลเยียม",
+          "point": 7
+        },
+        {
+          "id": "BZ",
+          "en": "Belize",
+          "th": "เบลีซ",
+          "point": 7
+        },
+        {
+          "id": "BJ",
+          "en": "Benin",
+          "th": "เบนิน",
+          "point": 7
+        },
+        {
+          "id": "BM",
+          "en": "Bermuda",
+          "th": "เบอร์มิวดา",
+          "point": 7
+        },
+        {
+          "id": "BT",
+          "en": "Bhutan",
+          "th": "ภูฏาน",
+          "point": 7
+        },
+        {
+          "id": "BO",
+          "en": "Bolivia",
+          "th": "โบลิเวีย",
+          "point": 7
+        },
+        {
+          "id": "BA",
+          "en": "Bosnia & Herzegovina",
+          "th": "บอสเนียและเฮอร์เซโกวีนา",
+          "point": 7
+        },
+        {
+          "id": "BW",
+          "en": "Botswana",
+          "th": "บอตสวานา",
+          "point": 7
+        },
+        {
+          "id": "BV",
+          "en": "Bouvet Island",
+          "th": "เกาะบูเว",
+          "point": 7
+        },
+        {
+          "id": "BR",
+          "en": "Brazil",
+          "th": "บราซิล",
+          "point": 7
+        },
+        {
+          "id": "IO",
+          "en": "British Indian Ocean Territory",
+          "th": "บริติชอินเดียนโอเชียนเทร์ริทอรี",
+          "point": 7
+        },
+        {
+          "id": "VG",
+          "en": "British Virgin Islands",
+          "th": "หมู่เกาะบริติชเวอร์จิน",
+          "point": 7
+        },
+        {
+          "id": "BN",
+          "en": "Brunei",
+          "th": "บรูไน",
+          "point": 7
+        },
+        {
+          "id": "BG",
+          "en": "Bulgaria",
+          "th": "บัลแกเรีย",
+          "point": 7
+        },
+        {
+          "id": "BF",
+          "en": "Burkina Faso",
+          "th": "บูร์กินาฟาโซ",
+          "point": 30
+        },
+        {
+          "id": "BI",
+          "en": "Burundi",
+          "th": "บุรุนดี",
+          "point": 7
+        },
+        {
+          "id": "KH",
+          "en": "Cambodia",
+          "th": "กัมพูชา",
+          "point": 7
+        },
+        {
+          "id": "CM",
+          "en": "Cameroon",
+          "th": "แคเมอรูน",
+          "point": 7
+        },
+        {
+          "id": "CA",
+          "en": "Canada",
+          "th": "แคนาดา",
+          "point": 7
+        },
+        {
+          "id": "CV",
+          "en": "Cape Verde",
+          "th": "เคปเวิร์ด",
+          "point": 7
+        },
+        {
+          "id": "BQ",
+          "en": "Caribbean Netherlands",
+          "th": "เนเธอร์แลนด์แคริบเบียน",
+          "point": 7
+        },
+        {
+          "id": "KY",
+          "en": "Cayman Islands",
+          "th": "หมู่เกาะเคย์แมน",
+          "point": 30
+        },
+        {
+          "id": "CF",
+          "en": "Central African Republic",
+          "th": "สาธารณรัฐแอฟริกากลาง",
+          "point": 7
+        },
+        {
+          "id": "TD",
+          "en": "Chad",
+          "th": "ชาด",
+          "point": 7
+        },
+        {
+          "id": "CL",
+          "en": "Chile",
+          "th": "ชิลี",
+          "point": 7
+        },
+        {
+          "id": "CN",
+          "en": "China",
+          "th": "จีน",
+          "point": 7
+        },
+        {
+          "id": "CX",
+          "en": "Christmas Island",
+          "th": "เกาะคริสต์มาส",
+          "point": 7
+        },
+        {
+          "id": "CC",
+          "en": "Cocos (Keeling) Islands",
+          "th": "หมู่เกาะโคโคส (คีลิง)",
+          "point": 7
+        },
+        {
+          "id": "CO",
+          "en": "Colombia",
+          "th": "โคลอมเบีย",
+          "point": 7
+        },
+        {
+          "id": "KM",
+          "en": "Comoros",
+          "th": "คอโมโรส",
+          "point": 7
+        },
+        {
+          "id": "CG",
+          "en": "Congo - Brazzaville",
+          "th": "คองโก - บราซซาวิล",
+          "point": 7
+        },
+        {
+          "id": "CD",
+          "en": "Democratic Republic of the Congo - Country in Central Africa",
+          "th": "คองโก - กินชาซา",
+          "point": 30
+        },
+        {
+          "id": "CK",
+          "en": "Cook Islands",
+          "th": "หมู่เกาะคุก",
+          "point": 7
+        },
+        {
+          "id": "CR",
+          "en": "Costa Rica",
+          "th": "คอสตาริกา",
+          "point": 7
+        },
+        {
+          "id": "CI",
+          "en": "Côte d’Ivoire",
+          "th": "โกตดิวัวร์",
+          "point": 7
+        },
+        {
+          "id": "HR",
+          "en": "Croatia",
+          "th": "โครเอเชีย",
+          "point": 7
+        },
+        {
+          "id": "CU",
+          "en": "Cuba",
+          "th": "คิวบา",
+          "point": 7
+        },
+        {
+          "id": "CW",
+          "en": "Curaçao",
+          "th": "คูราเซา",
+          "point": 7
+        },
+        {
+          "id": "CY",
+          "en": "Cyprus",
+          "th": "ไซปรัส",
+          "point": 7
+        },
+        {
+          "id": "CZ",
+          "en": "Czechia",
+          "th": "เช็ก",
+          "point": 7
+        },
+        {
+          "id": "DK",
+          "en": "Denmark",
+          "th": "เดนมาร์ก",
+          "point": 7
+        },
+        {
+          "id": "DJ",
+          "en": "Djibouti",
+          "th": "จิบูตี",
+          "point": 7
+        },
+        {
+          "id": "DM",
+          "en": "Dominica",
+          "th": "โดมินิกา",
+          "point": 7
+        },
+        {
+          "id": "DO",
+          "en": "Dominican Republic",
+          "th": "สาธารณรัฐโดมินิกัน",
+          "point": 7
+        },
+        {
+          "id": "EC",
+          "en": "Ecuador",
+          "th": "เอกวาดอร์",
+          "point": 7
+        },
+        {
+          "id": "EG",
+          "en": "Egypt",
+          "th": "อียิปต์",
+          "point": 7
+        },
+        {
+          "id": "SV",
+          "en": "El Salvador",
+          "th": "เอลซัลวาดอร์",
+          "point": 7
+        },
+        {
+          "id": "GQ",
+          "en": "Equatorial Guinea",
+          "th": "อิเควทอเรียลกินี",
+          "point": 7
+        },
+        {
+          "id": "ER",
+          "en": "Eritrea",
+          "th": "เอริเทรีย",
+          "point": 7
+        },
+        {
+          "id": "EE",
+          "en": "Estonia",
+          "th": "เอสโตเนีย",
+          "point": 7
+        },
+        {
+          "id": "SZ",
+          "en": "Eswatini",
+          "th": "เอสวาตีนี",
+          "point": 7
+        },
+        {
+          "id": "ET",
+          "en": "Ethiopia",
+          "th": "เอธิโอเปีย",
+          "point": 7
+        },
+        {
+          "id": "FK",
+          "en": "Falkland Islands",
+          "th": "หมู่เกาะฟอล์กแลนด์",
+          "point": 7
+        },
+        {
+          "id": "FO",
+          "en": "Faroe Islands",
+          "th": "หมู่เกาะแฟโร",
+          "point": 7
+        },
+        {
+          "id": "FJ",
+          "en": "Fiji",
+          "th": "ฟิจิ",
+          "point": 7
+        },
+        {
+          "id": "FI",
+          "en": "Finland",
+          "th": "ฟินแลนด์",
+          "point": 7
+        },
+        {
+          "id": "FR",
+          "en": "France",
+          "th": "ฝรั่งเศส",
+          "point": 7
+        },
+        {
+          "id": "GF",
+          "en": "French Guiana",
+          "th": "เฟรนช์เกียนา",
+          "point": 7
+        },
+        {
+          "id": "PF",
+          "en": "French Polynesia",
+          "th": "เฟรนช์โปลินีเซีย",
+          "point": 7
+        },
+        {
+          "id": "TF",
+          "en": "French Southern Territories",
+          "th": "เฟรนช์เซาเทิร์นเทร์ริทอรีส์",
+          "point": 7
+        },
+        {
+          "id": "GA",
+          "en": "Gabon",
+          "th": "กาบอง",
+          "point": 7
+        },
+        {
+          "id": "GM",
+          "en": "Gambia",
+          "th": "แกมเบีย",
+          "point": 7
+        },
+        {
+          "id": "GE",
+          "en": "Georgia",
+          "th": "จอร์เจีย",
+          "point": 7
+        },
+        {
+          "id": "DE",
+          "en": "Germany",
+          "th": "เยอรมนี",
+          "point": 7
+        },
+        {
+          "id": "GH",
+          "en": "Ghana",
+          "th": "กานา",
+          "point": 7
+        },
+        {
+          "id": "GI",
+          "en": "Gibraltar",
+          "th": "ยิบรอลตาร์",
+          "point": 30
+        },
+        {
+          "id": "GR",
+          "en": "Greece",
+          "th": "กรีซ",
+          "point": 7
+        },
+        {
+          "id": "GL",
+          "en": "Greenland",
+          "th": "กรีนแลนด์",
+          "point": 7
+        },
+        {
+          "id": "GD",
+          "en": "Grenada",
+          "th": "เกรเนดา",
+          "point": 7
+        },
+        {
+          "id": "GP",
+          "en": "Guadeloupe",
+          "th": "กวาเดอลูป",
+          "point": 7
+        },
+        {
+          "id": "GU",
+          "en": "Guam",
+          "th": "กวม",
+          "point": 7
+        },
+        {
+          "id": "GT",
+          "en": "Guatemala",
+          "th": "กัวเตมาลา",
+          "point": 7
+        },
+        {
+          "id": "GG",
+          "en": "Guernsey",
+          "th": "เกิร์นซีย์",
+          "point": 7
+        },
+        {
+          "id": "GN",
+          "en": "Guinea",
+          "th": "กินี",
+          "point": 7
+        },
+        {
+          "id": "GW",
+          "en": "Guinea-Bissau",
+          "th": "กินี-บิสเซา",
+          "point": 7
+        },
+        {
+          "id": "GY",
+          "en": "Guyana",
+          "th": "กายอานา",
+          "point": 7
+        },
+        {
+          "id": "HT",
+          "en": "Haiti",
+          "th": "เฮติ",
+          "point": 30
+        },
+        {
+          "id": "HM",
+          "en": "Heard & McDonald Islands",
+          "th": "เกาะเฮิร์ดและหมู่เกาะแมกดอนัลด์",
+          "point": 7
+        },
+        {
+          "id": "HN",
+          "en": "Honduras",
+          "th": "ฮอนดูรัส",
+          "point": 7
+        },
+        {
+          "id": "HK",
+          "en": "Hong Kong SAR China",
+          "th": "เขตปกครองพิเศษฮ่องกงแห่งสาธารณรัฐประชาชนจีน",
+          "point": 7
+        },
+        {
+          "id": "HU",
+          "en": "Hungary",
+          "th": "ฮังการี",
+          "point": 7
+        },
+        {
+          "id": "IS",
+          "en": "Iceland",
+          "th": "ไอซ์แลนด์",
+          "point": 7
+        },
+        {
+          "id": "IN",
+          "en": "India",
+          "th": "อินเดีย",
+          "point": 7
+        },
+        {
+          "id": "ID",
+          "en": "Indonesia",
+          "th": "อินโดนิเซีย",
+          "point": 7
+        },
+        {
+          "id": "IR",
+          "en": "Iran",
+          "th": "อิหร่าน",
+          "point": 0
+        },
+        {
+          "id": "IQ",
+          "en": "Iraq",
+          "th": "อิรัก",
+          "point": 7
+        },
+        {
+          "id": "IE",
+          "en": "Ireland",
+          "th": "ไอร์แลนด์",
+          "point": 7
+        },
+        {
+          "id": "IM",
+          "en": "Isle of Man",
+          "th": "เกาะแมน",
+          "point": 7
+        },
+        {
+          "id": "IL",
+          "en": "Israel",
+          "th": "อิสราเอล",
+          "point": 7
+        },
+        {
+          "id": "IT",
+          "en": "Italy",
+          "th": "อิตาลี",
+          "point": 7
+        },
+        {
+          "id": "JM",
+          "en": "Jamaica",
+          "th": "จาเมกา",
+          "point": 30
+        },
+        {
+          "id": "JP",
+          "en": "Japan",
+          "th": "ญี่ปุ่น",
+          "point": 7
+        },
+        {
+          "id": "JE",
+          "en": "Jersey",
+          "th": "เจอร์ซีย์",
+          "point": 7
+        },
+        {
+          "id": "JO",
+          "en": "Jordan",
+          "th": "จอร์แดน",
+          "point": 30
+        },
+        {
+          "id": "KZ",
+          "en": "Kazakhstan",
+          "th": "คาซัคสถาน",
+          "point": 7
+        },
+        {
+          "id": "KE",
+          "en": "Kenya",
+          "th": "เคนยา",
+          "point": 7
+        },
+        {
+          "id": "KI",
+          "en": "Kiribati",
+          "th": "คิริบาส",
+          "point": 7
+        },
+        {
+          "id": "KW",
+          "en": "Kuwait",
+          "th": "คูเวต",
+          "point": 7
+        },
+        {
+          "id": "KG",
+          "en": "Kyrgyzstan",
+          "th": "คีร์กีซสถาน",
+          "point": 7
+        },
+        {
+          "id": "LA",
+          "en": "Laos",
+          "th": "ลาว",
+          "point": 7
+        },
+        {
+          "id": "LV",
+          "en": "Latvia",
+          "th": "ลัตเวีย",
+          "point": 7
+        },
+        {
+          "id": "LB",
+          "en": "Lebanon",
+          "th": "เลบานอน",
+          "point": 7
+        },
+        {
+          "id": "LS",
+          "en": "Lesotho",
+          "th": "เลโซโท",
+          "point": 7
+        },
+        {
+          "id": "LR",
+          "en": "Liberia",
+          "th": "ไลบีเรีย",
+          "point": 7
+        },
+        {
+          "id": "LY",
+          "en": "Libya",
+          "th": "ลิเบีย",
+          "point": 7
+        },
+        {
+          "id": "LI",
+          "en": "Liechtenstein",
+          "th": "ลิกเตนสไตน์",
+          "point": 7
+        },
+        {
+          "id": "LT",
+          "en": "Lithuania",
+          "th": "ลิทัวเนีย",
+          "point": 7
+        },
+        {
+          "id": "LU",
+          "en": "Luxembourg",
+          "th": "ลักเซมเบิร์ก",
+          "point": 7
+        },
+        {
+          "id": "MO",
+          "en": "Macao SAR China",
+          "th": "เขตปกครองพิเศษมาเก๊าแห่งสาธารณรัฐประชาชนจีน",
+          "point": 7
+        },
+        {
+          "id": "MG",
+          "en": "Madagascar",
+          "th": "มาดากัสการ์",
+          "point": 7
+        },
+        {
+          "id": "MW",
+          "en": "Malawi",
+          "th": "มาลาวี",
+          "point": 7
+        },
+        {
+          "id": "MY",
+          "en": "Malaysia",
+          "th": "มาเลเซีย",
+          "point": 7
+        },
+        {
+          "id": "MV",
+          "en": "Maldives",
+          "th": "มัลดีฟส์",
+          "point": 7
+        },
+        {
+          "id": "ML",
+          "en": "Mali",
+          "th": "มาลี",
+          "point": 30
+        },
+        {
+          "id": "MT",
+          "en": "Malta",
+          "th": "มอลตา",
+          "point": 7
+        },
+        {
+          "id": "MH",
+          "en": "Marshall Islands",
+          "th": "หมู่เกาะมาร์แชลล์",
+          "point": 7
+        },
+        {
+          "id": "MQ",
+          "en": "Martinique",
+          "th": "มาร์ตินีก",
+          "point": 7
+        },
+        {
+          "id": "MR",
+          "en": "Mauritania",
+          "th": "มอริเตเนีย",
+          "point": 7
+        },
+        {
+          "id": "MU",
+          "en": "Mauritius",
+          "th": "มอริเชียส",
+          "point": 7
+        },
+        {
+          "id": "YT",
+          "en": "Mayotte",
+          "th": "มายอต",
+          "point": 7
+        },
+        {
+          "id": "MX",
+          "en": "Mexico",
+          "th": "เม็กซิโก",
+          "point": 7
+        },
+        {
+          "id": "FM",
+          "en": "Micronesia",
+          "th": "ไมโครนีเซีย",
+          "point": 7
+        },
+        {
+          "id": "MD",
+          "en": "Moldova",
+          "th": "มอลโดวา",
+          "point": 7
+        },
+        {
+          "id": "MC",
+          "en": "Monaco",
+          "th": "โมนาโก",
+          "point": 7
+        },
+        {
+          "id": "MN",
+          "en": "Mongolia",
+          "th": "มองโกเลีย",
+          "point": 7
+        },
+        {
+          "id": "ME",
+          "en": "Montenegro",
+          "th": "มอนเตเนโกร",
+          "point": 7
+        },
+        {
+          "id": "MS",
+          "en": "Montserrat",
+          "th": "มอนต์เซอร์รัต",
+          "point": 7
+        },
+        {
+          "id": "MA",
+          "en": "Morocco",
+          "th": "โมร็อกโก",
+          "point": 7
+        },
+        {
+          "id": "MZ",
+          "en": "Mozambique",
+          "th": "โมซัมบิก",
+          "point": 30
+        },
+        {
+          "id": "MM",
+          "en": "Myanmar (Burma)",
+          "th": "เมียนมาร์ (พม่า)",
+          "point": 30
+        },
+        {
+          "id": "NA",
+          "en": "Namibia",
+          "th": "นามิเบีย",
+          "point": 7
+        },
+        {
+          "id": "NR",
+          "en": "Nauru",
+          "th": "นาอูรู",
+          "point": 7
+        },
+        {
+          "id": "NP",
+          "en": "Nepal",
+          "th": "เนปาล",
+          "point": 7
+        },
+        {
+          "id": "NL",
+          "en": "Netherlands",
+          "th": "เนเธอร์แลนด์",
+          "point": 7
+        },
+        {
+          "id": "NC",
+          "en": "New Caledonia",
+          "th": "นิวแคลิโดเนีย",
+          "point": 7
+        },
+        {
+          "id": "NZ",
+          "en": "New Zealand",
+          "th": "นิวซีแลนด์",
+          "point": 7
+        },
+        {
+          "id": "NI",
+          "en": "Nicaragua",
+          "th": "นิการากัว",
+          "point": 7
+        },
+        {
+          "id": "NE",
+          "en": "Niger",
+          "th": "ไนเจอร์",
+          "point": 7
+        },
+        {
+          "id": "NG",
+          "en": "Nigeria",
+          "th": "ไนจีเรีย",
+          "point": 30
+        },
+        {
+          "id": "NU",
+          "en": "Niue",
+          "th": "นีอูเอ",
+          "point": 7
+        },
+        {
+          "id": "NF",
+          "en": "Norfolk Island",
+          "th": "เกาะนอร์ฟอล์ก",
+          "point": 7
+        },
+        {
+          "id": "KP",
+          "en": "Democratic People's Republic of Korea (DPRK)",
+          "th": "เกาหลีเหนือ",
+          "point": 0
+        },
+        {
+          "id": "MK",
+          "en": "North Macedonia",
+          "th": "มาซิโดเนียเหนือ",
+          "point": 7
+        },
+        {
+          "id": "MP",
+          "en": "Northern Mariana Islands",
+          "th": "หมู่เกาะนอร์เทิร์นมาเรียนา",
+          "point": 7
+        },
+        {
+          "id": "NO",
+          "en": "Norway",
+          "th": "นอร์เวย์",
+          "point": 7
+        },
+        {
+          "id": "OM",
+          "en": "Oman",
+          "th": "โอมาน",
+          "point": 7
+        },
+        {
+          "id": "PK",
+          "en": "Pakistan",
+          "th": "ปากีสถาน",
+          "point": 3
+        },
+        {
+          "id": "PW",
+          "en": "Palau",
+          "th": "ปาเลา",
+          "point": 7
+        },
+        {
+          "id": "PS",
+          "en": "Palestinian Territories",
+          "th": "ดินแดนปาเลสไตน์",
+          "point": 7
+        },
+        {
+          "id": "PA",
+          "en": "Panama",
+          "th": "ปานามา",
+          "point": 30
+        },
+        {
+          "id": "PG",
+          "en": "Papua New Guinea",
+          "th": "ปาปัวนิวกินี",
+          "point": 7
+        },
+        {
+          "id": "PY",
+          "en": "Paraguay",
+          "th": "ปารากวัย",
+          "point": 7
+        },
+        {
+          "id": "PE",
+          "en": "Peru",
+          "th": "เปรู",
+          "point": 7
+        },
+        {
+          "id": "PH",
+          "en": "Philippines",
+          "th": "ฟิลิปปินส์",
+          "point": 30
+        },
+        {
+          "id": "PN",
+          "en": "Pitcairn Islands",
+          "th": "หมู่เกาะพิตแคร์น",
+          "point": 7
+        },
+        {
+          "id": "PL",
+          "en": "Poland",
+          "th": "โปแลนด์",
+          "point": 7
+        },
+        {
+          "id": "PT",
+          "en": "Portugal",
+          "th": "โปรตุเกส",
+          "point": 7
+        },
+        {
+          "id": "PR",
+          "en": "Puerto Rico",
+          "th": "เปอร์โตริโก",
+          "point": 7
+        },
+        {
+          "id": "QA",
+          "en": "Qatar",
+          "th": "กาตาร์",
+          "point": 7
+        },
+        {
+          "id": "RE",
+          "en": "Réunion",
+          "th": "เรอูนียง",
+          "point": 7
+        },
+        {
+          "id": "RO",
+          "en": "Romania",
+          "th": "โรมาเนีย",
+          "point": 7
+        },
+        {
+          "id": "RU",
+          "en": "Russia",
+          "th": "รัสเซีย",
+          "point": 7
+        },
+        {
+          "id": "RW",
+          "en": "Rwanda",
+          "th": "รวันดา",
+          "point": 7
+        },
+        {
+          "id": "WS",
+          "en": "Samoa",
+          "th": "ซามัว",
+          "point": 7
+        },
+        {
+          "id": "SM",
+          "en": "San Marino",
+          "th": "ซานมาริโน",
+          "point": 7
+        },
+        {
+          "id": "ST",
+          "en": "São Tomé & Príncipe",
+          "th": "เซาตูเมและปรินซิปี",
+          "point": 7
+        },
+        {
+          "id": "SA",
+          "en": "Saudi Arabia",
+          "th": "ซาอุดีอาระเบีย",
+          "point": 7
+        },
+        {
+          "id": "SN",
+          "en": "Senegal",
+          "th": "เซเนกัล",
+          "point": 30
+        },
+        {
+          "id": "RS",
+          "en": "Serbia",
+          "th": "เซอร์เบีย",
+          "point": 7
+        },
+        {
+          "id": "SC",
+          "en": "Seychelles",
+          "th": "เซเชลส์",
+          "point": 7
+        },
+        {
+          "id": "SL",
+          "en": "Sierra Leone",
+          "th": "เซียร์ราลีโอน",
+          "point": 7
+        },
+        {
+          "id": "SG",
+          "en": "Singapore",
+          "th": "สิงคโปร์",
+          "point": 7
+        },
+        {
+          "id": "SX",
+          "en": "Sint Maarten",
+          "th": "ซินต์มาร์เทน",
+          "point": 7
+        },
+        {
+          "id": "SK",
+          "en": "Slovakia",
+          "th": "สโลวะเกีย",
+          "point": 7
+        },
+        {
+          "id": "SI",
+          "en": "Slovenia",
+          "th": "สโลวีเนีย",
+          "point": 7
+        },
+        {
+          "id": "SB",
+          "en": "Solomon Islands",
+          "th": "หมู่เกาะโซโลมอน",
+          "point": 7
+        },
+        {
+          "id": "SO",
+          "en": "Somalia",
+          "th": "โซมาเลีย",
+          "point": 7
+        },
+        {
+          "id": "ZA",
+          "en": "The Republic of South Africa",
+          "th": "แอฟริกาใต้",
+          "point": 30
+        },
+        {
+          "id": "GS",
+          "en": "South Georgia & South Sandwich Islands",
+          "th": "เกาะเซาท์จอร์เจียและหมู่เกาะเซาท์แซนด์วิช",
+          "point": 7
+        },
+        {
+          "id": "KR",
+          "en": "South Korea",
+          "th": "เกาหลีใต้",
+          "point": 7
+        },
+        {
+          "id": "SS",
+          "en": "Republic of South Sudan",
+          "th": "ซูดานใต้",
+          "point": 30
+        },
+        {
+          "id": "ES",
+          "en": "Spain",
+          "th": "สเปน",
+          "point": 7
+        },
+        {
+          "id": "LK",
+          "en": "Sri Lanka",
+          "th": "ศรีลังกา",
+          "point": 7
+        },
+        {
+          "id": "BL",
+          "en": "St. Barthélemy",
+          "th": "เซนต์บาร์เธเลมี",
+          "point": 7
+        },
+        {
+          "id": "SH",
+          "en": "St. Helena",
+          "th": "เซนต์เฮเลนา",
+          "point": 7
+        },
+        {
+          "id": "KN",
+          "en": "St. Kitts & Nevis",
+          "th": "เซนต์คิตส์และเนวิส",
+          "point": 7
+        },
+        {
+          "id": "LC",
+          "en": "St. Lucia",
+          "th": "เซนต์ลูเซีย",
+          "point": 7
+        },
+        {
+          "id": "MF",
+          "en": "St. Martin",
+          "th": "เซนต์มาร์ติน",
+          "point": 7
+        },
+        {
+          "id": "PM",
+          "en": "St. Pierre & Miquelon",
+          "th": "แซงปีแยร์และมีเกอลง",
+          "point": 7
+        },
+        {
+          "id": "VC",
+          "en": "St. Vincent & Grenadines",
+          "th": "เซนต์วินเซนต์และเกรนาดีนส์",
+          "point": 7
+        },
+        {
+          "id": "SD",
+          "en": "Sudan",
+          "th": "ซูดาน",
+          "point": 7
+        },
+        {
+          "id": "SR",
+          "en": "Suriname",
+          "th": "ซูรินาเม",
+          "point": 7
+        },
+        {
+          "id": "SJ",
+          "en": "Svalbard & Jan Mayen",
+          "th": "สฟาลบาร์และยานไมเอน",
+          "point": 7
+        },
+        {
+          "id": "SE",
+          "en": "Sweden",
+          "th": "สวีเดน",
+          "point": 7
+        },
+        {
+          "id": "CH",
+          "en": "Switzerland",
+          "th": "สวิตเซอร์แลนด์",
+          "point": 7
+        },
+        {
+          "id": "SY",
+          "en": "Syria",
+          "th": "ซีเรีย",
+          "point": 30
+        },
+        {
+          "id": "TW",
+          "en": "Taiwan",
+          "th": "ไต้หวัน",
+          "point": 7
+        },
+        {
+          "id": "TJ",
+          "en": "Tajikistan",
+          "th": "ทาจิกิสถาน",
+          "point": 7
+        },
+        {
+          "id": "TZ",
+          "en": "The United Republic of Tanzania",
+          "th": "แทนซาเนีย",
+          "point": 30
+        },
+        {
+          "id": "TH",
+          "en": "Thailand",
+          "th": "ไทย",
+          "point": 1
+        },
+        {
+          "id": "TL",
+          "en": "Timor-Leste",
+          "th": "ติมอร์-เลสเต",
+          "point": 7
+        },
+        {
+          "id": "TG",
+          "en": "Togo",
+          "th": "โตโก",
+          "point": 7
+        },
+        {
+          "id": "TK",
+          "en": "Tokelau",
+          "th": "โตเกเลา",
+          "point": 7
+        },
+        {
+          "id": "TO",
+          "en": "Tonga",
+          "th": "ตองกา",
+          "point": 7
+        },
+        {
+          "id": "TT",
+          "en": "Trinidad & Tobago",
+          "th": "ตรินิแดดและโตเบโก",
+          "point": 7
+        },
+        {
+          "id": "TN",
+          "en": "Tunisia",
+          "th": "ตูนิเซีย",
+          "point": 7
+        },
+        {
+          "id": "TR",
+          "en": "Turkey",
+          "th": "ตุรกี",
+          "point": 30
+        },
+        {
+          "id": "TM",
+          "en": "Turkmenistan",
+          "th": "เติร์กเมนิสถาน",
+          "point": 7
+        },
+        {
+          "id": "TC",
+          "en": "Turks & Caicos Islands",
+          "th": "หมู่เกาะเติกส์และหมู่เกาะเคคอส",
+          "point": 7
+        },
+        {
+          "id": "TV",
+          "en": "Tuvalu",
+          "th": "ตูวาลู",
+          "point": 7
+        },
+        {
+          "id": "UM",
+          "en": "U.S. Outlying Islands",
+          "th": "หมู่เกาะรอบนอกของสหรัฐอเมริกา",
+          "point": 7
+        },
+        {
+          "id": "VI",
+          "en": "U.S. Virgin Islands",
+          "th": "หมู่เกาะเวอร์จินของสหรัฐอเมริกา",
+          "point": 7
+        },
+        {
+          "id": "UG",
+          "en": "Uganda",
+          "th": "ยูกันดา",
+          "point": 30
+        },
+        {
+          "id": "UA",
+          "en": "Ukraine",
+          "th": "ยูเครน",
+          "point": 7
+        },
+        {
+          "id": "AE",
+          "en": "United Arab Emirates",
+          "th": "สหรัฐอาหรับเอมิเรตส์",
+          "point": 30
+        },
+        {
+          "id": "GB",
+          "en": "United Kingdom",
+          "th": "สหราชอาณาจักร",
+          "point": 7
+        },
+        {
+          "id": "US",
+          "en": "United States",
+          "th": "สหรัฐอเมริกา",
+          "point": 7
+        },
+        {
+          "id": "UY",
+          "en": "Uruguay",
+          "th": "อุรุกวัย",
+          "point": 7
+        },
+        {
+          "id": "UZ",
+          "en": "Uzbekistan",
+          "th": "อุซเบกิสถาน",
+          "point": 7
+        },
+        {
+          "id": "VU",
+          "en": "Vanuatu",
+          "th": "วานูอาตู",
+          "point": 7
+        },
+        {
+          "id": "VA",
+          "en": "Vatican City",
+          "th": "นครวาติกัน",
+          "point": 7
+        },
+        {
+          "id": "VE",
+          "en": "Venezuela",
+          "th": "เวเนซุเอลา",
+          "point": 7
+        },
+        {
+          "id": "VN",
+          "en": "Vietnam",
+          "th": "เวียดนาม",
+          "point": 7
+        },
+        {
+          "id": "WF",
+          "en": "Wallis & Futuna",
+          "th": "วาลลิสและฟุตูนา",
+          "point": 7
+        },
+        {
+          "id": "EH",
+          "en": "Western Sahara",
+          "th": "ซาฮาราตะวันตก",
+          "point": 7
+        },
+        {
+          "id": "YE",
+          "en": "Yemen",
+          "th": "เยเมน",
+          "point": 30
+        },
+        {
+          "id": "ZM",
+          "en": "Zambia",
+          "th": "แซมเบีย",
+          "point": 7
+        },
+        {
+          "id": "ZW",
+          "en": "Zimbabwe",
+          "th": "ซิมบับเว",
+          "point": 7
+        }
+      ],
+        "is_iwt" : false
+      
+    },
+    {
+      "id" : 7,
+      "multiple" : false,
+      "question" : {
+        "th" : "รายได้เฉลี่ยต่อเดือน",
+        "en" : ""
+      },
+      "answers" : [
+        {
+          "id" : 1,
+          "answer" : {
+            "th" : "น้อยกว่า 15,000 บาท" ,
+            "en" : "น้อยกว่า 15,000 บาท"
+          },
+          "point" : 0
+        },
+        {
+          "id" : 2,
+          "answer" : {
+            "th" : "15,000 - 49,999 บาท" ,
+            "en" : "15,000 - 49,999 บาท"
+          },
+          "point" : 0
+        },
+        {
+          "id" : 3,
+          "answer" : {
+            "th" : "50,000 - 99,999 บาท" ,
+            "en" : "50,000 - 99,999 บาท"
+          },
+          "point" : 0
+        },
+        {
+          "id" : 4,
+          "answer" : {
+            "th" : "100,000 - 499,999 บาท" ,
+            "en" : "100,000 - 499,999 บาท"
+          },
+          "point" : 0
+        },
+        {
+          "id" : 5,
+          "answer" : {
+            "th" : "มากกว่า 500,000 บาทขึ้นไป" ,
+            "en" : "มากกว่า 500,000 บาทขึ้นไป"
+          },
+          "point" : 0
+        }
+      ],
+      "select_item" : false,
+      "select_list" : [] ,
+      "is_iwt" : false
+    },
+    {
+      "id" : 8,
+      "multiple" : false,
+      "question" : {
+        "th" : "ปริมาณสินทรัพย์ทั้งหมดที่ลูกค้าเป็นเจ้าของ",
+        "en" : ""
+      },
+      "answers" : [
+        {
+          "id" : 1,
+          "answer" : {
+            "th" : "< 2,000,000 บาท" ,
+            "en" : "< 2,000,000 บาท"
+          },
+          "point" : 0
+        },
+        {
+          "id" : 2,
+          "answer" : {
+            "th" : "2,000,000 - 5,000,000 บาท" ,
+            "en" : "2,000,000 - 5,000,000 บาท"
+          },
+          "point" : 0
+        },
+        {
+          "id" : 3,
+          "answer" : {
+            "th" : "5,000,001 - 10,000,000 บาท" ,
+            "en" : "5,000,001 - 10,000,000 บาท"
+          },
+          "point" : 0
+        },
+        {
+          "id" : 4,
+          "answer" : {
+            "th" : "10,000,001 - 100,000,000 บาท" ,
+            "en" : "10,000,001 - 100,000,000 บาท"
+          },
+          "point" : 0
+        },
+        {
+          "id" : 5,
+          "answer" : {
+            "th" : "> 100,000,000 บาท" ,
+            "en" : "> 100,000,000 บาท"
+          },
+          "point" : 0
+        }
+      ],
+      "select_item" : false,
+      "select_list" : [] ,
+      "is_iwt" : false
+    },
+    {
+      "id" : 9,
+      "multiple" : false,
+      "question" : {
+        "th" : "สัดส่วนการลงทุนระหว่างสินทรัพย์ดิจิทัลกับสินทรัพย์ทั้งหมด",
+        "en" : ""
+      },
+      "answers" : [
+        {
+          "id" : 1,
+          "answer" : {
+            "th" : "น้อยกว่าร้อยละ 10" ,
+            "en" : ""
+          },
+          "point" : 5
+        },
+        {
+          "id" : 2,
+          "answer" : {
+            "th" : "ตั้งแต่ร้อยละ 10 แต่ไม่เกินร้อยละ 30" ,
+            "en" : ""
+          },
+          "point" : 4
+        },
+        {
+          "id" : 3,
+          "answer" : {
+            "th" : "ตั้งแต่ร้อยละ 30 แต่ไม่เกินร้อยละ 50" ,
+            "en" : ""
+          },
+          "point" : 3
+        },
+        {
+          "id" : 4,
+          "answer" : {
+            "th" : "ตั้งแต่ร้อยละ 50 แต่ไม่เกินร้อยละ 80" ,
+            "en" : ""
+          },
+          "point" : 2
+        },
+        {
+          "id" : 5,
+          "answer" : {
+            "th" : "ตั้งแต่ร้อยละ 80 ขึ้นไป" ,
+            "en" : ""
+          },
+          "point" : 1
+        }
+      ],
+      "select_item" : false,
+      "select_list" : [] ,
+      "is_iwt" : true
+    },
+    {
+      "id" : 10,
+      "multiple" : false,
+      "question" : {
+        "th" : "ปริมาณเงินสดหรือสินทรัพย์ดิจิทัลที่คาดว่าจะใช้บริการ",
+        "en" : ""
+      },
+      "answers" : [
+        {
+          "id" : 1,
+          "answer" : {
+            "th" : "0 - 2,000,000 บาท" ,
+            "en" : ""
+          },
+          "point" :  1 
+        },
+        {
+          "id" : 2,
+          "answer" : {
+            "th" : "2,000,001 - 10,000,000 บาท" ,
+            "en" : ""
+          },
+          "point" :  7
+        },
+        {
+          "id" : 3,
+          "answer" : {
+            "th" : "10,000,000 บาท ขึ้นไป" ,
+            "en" : ""
+          },
+          "point" : 39
+        }
+      ],
+      "select_item" : false,
+      "select_list" : [] ,
+      "is_iwt" : false
+    },
+    {
+      "id" : 11,
+      "multiple" : false,
+      "question" : {
+        "th" : "ท่านมีประสบการณ์การลงทุนในหลักทรัพย์หรือไม่ (หลักทรัพย์ หมายถึง หน่วยลงทุน หุ้น หุ้นกู้ พันธบัตรรัฐบาล ตราสารอนุพันธ์ สินทรัพย์ดิจิทัล หรือเครื่องมือทางการเงินอื่นทำนองเดียวกัน)",
+        "en" : ""
+      },
+      "answers" : [
+        {
+          "id" : 1,
+          "answer" : {
+            "th" : "ไม่มีประสบการณ์เลย" ,
+            "en" : ""
+          },
+          "point" : 1
+        },
+        {
+          "id" : 2,
+          "answer" : {
+            "th" : "มีประสบการณ์ไม่เกิน 1 ปี" ,
+            "en" : ""
+          },
+          "point" : 2
+        },
+        {
+          "id" : 3,
+          "answer" : {
+            "th" : "มีประสบการณ์ตั้งแต่ 1 ปี แต่ไม่เกิน 3 ปี" ,
+            "en" : ""
+          },
+          "point" : 3
+        },
+        {
+          "id" : 4,
+          "answer" : {
+            "th" : "มีประสบการณ์ตั้งแต่ 3 ปี แต่ไม่เกิน 10 ปี" ,
+            "en" : ""
+          },
+          "point" : 4
+        },
+        {
+          "id" : 5,
+          "answer" : {
+            "th" : "มีประสบการณ์ตั้งแต่ 10 ปีขึ้นไป" ,
+            "en" : ""
+          },
+          "point" : 5
+        }
+      ],
+      "select_item" : false,
+      "select_list" : [] ,
+      "is_iwt" : true
+    },
+    {
+      "id" : 12,
+      "multiple" : false,
+      "question" : {
+        "th" : "ระดับความเสี่ยงของการลงทุนที่ยอมรับได้",
+        "en" : ""
+      },
+      "answers" : [
+        {
+          "id" : 1,
+          "answer" : {
+            "th" : "เน้นเงินต้นปลอดภัยและได้รับผลตอบแทนสม่ำเสมอแต่ต่ำได้" ,
+            "en" : ""
+          },
+          "point" : 1
+        },
+        {
+          "id" : 2,
+          "answer" : {
+            "th" : "เน้นโอกาสได้รับผลตอบแทนที่สม่ำเสมอแต่อาจเสี่ยงที่จะเสียเงินต้นบ้าง" ,
+            "en" : ""
+          },
+          "point" : 2
+        },
+        {
+          "id" : 3,
+          "answer" : {
+            "th" : "เน้นโอกาสได้รับผลตอบแทนที่สูงขึ้นแต่อาจเสี่ยงที่จะเสียเงินต้นได้มากขึ้น" ,
+            "en" : ""
+          },
+          "point" : 4
+        },
+        {
+          "id" : 4,
+          "answer" : {
+            "th" : "เน้นผลตอบแทนสูงสุดในระยะยาวแต่อาจเสี่ยงที่จะสูญเงินต้นส่วนใหญ่หรือทั้งจำนวนได้" ,
+            "en" : ""
+          },
+          "point" : 5
+        }
+      ],
+      "select_item" : false,
+      "select_list" : [] ,
+      "is_iwt" : true
+    },
+    {
+      "id" : 13,
+      "multiple" : false,
+      "question" : {
+        "th" : "ท่านคิดว่าท่านยอมรับผลขาดทุนจากการลงทุนในครั้งหนึ่งได้มากน้อยเพียงใด",
+        "en" : ""
+      },
+      "answers" : [
+        {
+          "id" : 1,
+          "answer" : {
+            "th" : "ไม่สามารถรับผลขาดทุนได้เลย" ,
+            "en" : ""
+          },
+          "point" : 1
+        },
+        {
+          "id" : 2,
+          "answer" : {
+            "th" : "ต่ำกว่าร้อยละ 10 ของเงินลงทุน" ,
+            "en" : ""
+          },
+          "point" : 2
+        },
+        {
+          "id" : 3,
+          "answer" : {
+            "th" : "ประมาณร้อยละ 10 - 30 ของเงินลงทุน" ,
+            "en" : ""
+          },
+          "point" : 3
+        },
+        {
+          "id" : 4,
+          "answer" : {
+            "th" : "ประมาณร้อยละ 30 - 70 ของเงินลงทุน" ,
+            "en" : ""
+          },
+          "point" : 4
+        },
+        {
+          "id" : 5,
+          "answer" : {
+            "th" : "รับผลขาดทุนได้ทั้งหมด" ,
+            "en" : ""
+          },
+          "point" : 5
+        }
+      ],
+      "select_item" : false,
+      "select_list" : [] ,
+      "is_iwt" : true
+    }
+  ] 

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "group_name": "รับราชการ",
+    "score": 1,
+    "has_sub_occupation": true,
+    "auto_reject": false
+  },
+  {
+    "id": 2,
+    "group_name": "พนักงานรัฐวิสาหกิจ",
+    "score": 1,
+    "has_sub_occupation": true,
+    "auto_reject": false
+  },
+  {
+    "id": 3,
+    "group_name": "พนักงานบริษัทเอกชน",
+    "score": 1,
+    "has_sub_occupation": true,
+    "auto_reject": false
+  },
+  {
+    "id": 4,
+    "group_name": "เจ้าของธุรกิจ/อาชีพอิสระ",
+    "score": 30,
+    "has_sub_occupation": true,
+    "auto_reject": false
+  },
+  {
+    "id": 5,
+    "group_name": "พ่อบ้าน / แม่บ้าน",
+    "score": 1,
+    "has_sub_occupation": false,
+    "auto_reject": false
+  },
+  {
+    "id": 6,
+    "group_name": "นักเรียน / นักศึกษา",
+    "score": 1,
+    "has_sub_occupation": false,
+    "auto_reject": false
+  },
+  {
+    "id": 7,
+    "group_name": "พระภิกษุ / นักบวช",
+    "score": 0,
+    "has_sub_occupation": false,
+    "auto_reject": true
+  },
+  {
+    "id": 8,
+    "group_name": "เกษียณ",
+    "score": 1,
+    "has_sub_occupation": false,
+    "auto_reject": false
+  }
+]

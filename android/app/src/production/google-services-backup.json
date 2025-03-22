@@ -1,0 +1,286 @@
+{
+  "project_info": {
+    "project_number": "809989295239",
+    "firebase_url": "https://gasta-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gasta-app",
+    "storage_bucket": "gasta-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809989295239:android:f09839dd3d386bf7edfc22",
+        "android_client_info": {
+          "package_name": "com.gaffverse.wallet1109x"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809989295239-3fp4kbtu8j88oqpbv9re01hs6d6fdrd1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaffverse.wallet1109x",
+            "certificate_hash": "7c8332eae7823662daa537bba7872a7fd36b6fd1"
+          }
+        },
+        {
+          "client_id": "809989295239-kuef8hdil52q8vrsjmjhru5vvagcnoa1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVo0uNG5IN8qlrBgZ572VI4Jmf0e_4gs0"
+        },
+        {
+          "current_key": "AIzaSyDIOlZcfW-Y8fhUBUSOMCuYz17tAkpTopQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809989295239-0ru1jg4ts9nkfa51g4fja1ch2u08q8fv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "809989295239-5ka5go4ap1t1udbtjll65sef2siuqscq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gaffverse.wallet1109x.pentest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809989295239:android:8a54e05348ea5efaedfc22",
+        "android_client_info": {
+          "package_name": "com.gaffverse.wallet1109x.pentest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809989295239-70e0lh78i0o3kncmbofj03gcte3hs6e4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaffverse.wallet1109x.pentest",
+            "certificate_hash": "7c8332eae7823662daa537bba7872a7fd36b6fd1"
+          }
+        },
+        {
+          "client_id": "809989295239-pau6v9t9hneb1p0gppjfd4h4m4q9er1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaffverse.wallet1109x.pentest",
+            "certificate_hash": "4fcc811c3bd60c9c1c54e0837180b691091384fd"
+          }
+        },
+        {
+          "client_id": "809989295239-kuef8hdil52q8vrsjmjhru5vvagcnoa1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVo0uNG5IN8qlrBgZ572VI4Jmf0e_4gs0"
+        },
+        {
+          "current_key": "AIzaSyDIOlZcfW-Y8fhUBUSOMCuYz17tAkpTopQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809989295239-0ru1jg4ts9nkfa51g4fja1ch2u08q8fv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "809989295239-5ka5go4ap1t1udbtjll65sef2siuqscq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gaffverse.wallet1109x.pentest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809989295239:android:91efaf614b87f79dedfc22",
+        "android_client_info": {
+          "package_name": "com.gaffverse.wallet1109x.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809989295239-fm39qj31gvts9feq9btj9092dh8c1vmr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaffverse.wallet1109x.staging",
+            "certificate_hash": "7c8332eae7823662daa537bba7872a7fd36b6fd1"
+          }
+        },
+        {
+          "client_id": "809989295239-ucf8sgg5kgggnvj1hrmhs1b7sulb681o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaffverse.wallet1109x.staging",
+            "certificate_hash": "4fcc811c3bd60c9c1c54e0837180b691091384fd"
+          }
+        },
+        {
+          "client_id": "809989295239-kuef8hdil52q8vrsjmjhru5vvagcnoa1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVo0uNG5IN8qlrBgZ572VI4Jmf0e_4gs0"
+        },
+        {
+          "current_key": "AIzaSyDIOlZcfW-Y8fhUBUSOMCuYz17tAkpTopQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809989295239-0ru1jg4ts9nkfa51g4fja1ch2u08q8fv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "809989295239-5ka5go4ap1t1udbtjll65sef2siuqscq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gaffverse.wallet1109x.pentest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809989295239:android:4b180b5125990521edfc22",
+        "android_client_info": {
+          "package_name": "com.gaffverse.x1109"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809989295239-8d0lgotpnlotmch0jai2mpafa6o30g6p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaffverse.x1109",
+            "certificate_hash": "7c8332eae7823662daa537bba7872a7fd36b6fd1"
+          }
+        },
+        {
+          "client_id": "809989295239-bnjv1tjcok50u0bpbu1oejru0q9rg6ja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaffverse.x1109",
+            "certificate_hash": "15c641cb2c55effb6642aa9e410fc9f51b9dbb50"
+          }
+        },
+        {
+          "client_id": "809989295239-o1rdis9ttj661r35b87h37nj7lopauiq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaffverse.x1109",
+            "certificate_hash": "4fcc811c3bd60c9c1c54e0837180b691091384fd"
+          }
+        },
+        {
+          "client_id": "809989295239-kuef8hdil52q8vrsjmjhru5vvagcnoa1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVo0uNG5IN8qlrBgZ572VI4Jmf0e_4gs0"
+        },
+        {
+          "current_key": "AIzaSyDIOlZcfW-Y8fhUBUSOMCuYz17tAkpTopQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809989295239-0ru1jg4ts9nkfa51g4fja1ch2u08q8fv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "809989295239-5ka5go4ap1t1udbtjll65sef2siuqscq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gaffverse.wallet1109x.pentest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809989295239:android:8ffeb2fed4dd3f04edfc22",
+        "android_client_info": {
+          "package_name": "com.gaffverse.x1109.production"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809989295239-7gdka56tsa2erbpkdf6e4to87earp2im.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaffverse.x1109.production",
+            "certificate_hash": "7c8332eae7823662daa537bba7872a7fd36b6fd1"
+          }
+        },
+        {
+          "client_id": "809989295239-ogukgk1cjupdresss4s6m92hs1cg1551.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaffverse.x1109.production",
+            "certificate_hash": "4fcc811c3bd60c9c1c54e0837180b691091384fd"
+          }
+        },
+        {
+          "client_id": "809989295239-kuef8hdil52q8vrsjmjhru5vvagcnoa1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVo0uNG5IN8qlrBgZ572VI4Jmf0e_4gs0"
+        },
+        {
+          "current_key": "AIzaSyDIOlZcfW-Y8fhUBUSOMCuYz17tAkpTopQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809989295239-0ru1jg4ts9nkfa51g4fja1ch2u08q8fv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "809989295239-5ka5go4ap1t1udbtjll65sef2siuqscq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gaffverse.wallet1109x.pentest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

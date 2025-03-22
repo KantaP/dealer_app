@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>809989295239-dn63sc29u9pqjgr22vpts4j6mc1tgapn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.809989295239-dn63sc29u9pqjgr22vpts4j6mc1tgapn</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>809989295239-0g6egbrp7ulaes8qhpdvatlifmfco8p5.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD_xkYyto5UjBq6P_KX1UfuW16Hh0p9JXE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>809989295239</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gaffverse.x1109</string>
+	<key>PROJECT_ID</key>
+	<string>gasta-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gasta-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:809989295239:ios:9173f019f757ef95edfc22</string>
+	<key>DATABASE_URL</key>
+	<string>https://gasta-app-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyADHeM1z4FWBdWo576kfgCYHN0CbnCdO8k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>585437755602</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gaffverse.x1109.staging</string>
+	<key>PROJECT_ID</key>
+	<string>oort-8899</string>
+	<key>STORAGE_BUCKET</key>
+	<string>oort-8899.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:585437755602:ios:dd95e3f9c731a5df87550b</string>
+	<key>DATABASE_URL</key>
+	<string>https://oort-8899-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

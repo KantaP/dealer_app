@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "585437755602",
+    "firebase_url": "https://oort-8899-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "oort-8899",
+    "storage_bucket": "oort-8899.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585437755602:android:b9b9c7a2f0454b0c87550b",
+        "android_client_info": {
+          "package_name": "com.gaffverse.x1109"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585437755602-9quit45ejjav1cn491ne53rd12i9u169.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy5axLFasKke62Y8Ruv0ifxvyv_nGS0R0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585437755602-9quit45ejjav1cn491ne53rd12i9u169.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585437755602:android:b593f50d94e379ce87550b",
+        "android_client_info": {
+          "package_name": "com.gaffverse.x1109.production"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585437755602-9quit45ejjav1cn491ne53rd12i9u169.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy5axLFasKke62Y8Ruv0ifxvyv_nGS0R0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585437755602-9quit45ejjav1cn491ne53rd12i9u169.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
